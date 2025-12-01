@@ -30,6 +30,9 @@ This repository presents an enhanced SVM classification model achieved through s
 * Best parameter selection using CV
 
 * Visual plots showing model performance
+  
+## Optimization Results
+![Optimization Results](Parameter_Optimization_SVM.png)
 
 ## Fitness Curve
 ![Fitness Curve](convergence.png)
