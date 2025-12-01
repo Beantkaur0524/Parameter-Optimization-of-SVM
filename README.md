@@ -5,34 +5,33 @@ This repository presents an enhanced SVM classification model achieved through s
 
 * Preprocessed dataset for training and testing
 
-Implemented baseline SVM classifier
+* Implemented baseline SVM classifier
 
-Applied hyperparameter tuning techniques
+* Applied hyperparameter tuning techniques
 
-Compared model performance before and after optimization
-
-Visualized accuracy, confusion matrix, and key results
+* Compared model performance before and after optimization
 
 # 🔧 Techniques Used
 
-Support Vector Machine (SVM)
+* Support Vector Machine (SVM)
 
-Grid Search CV
+* Grid Search CV
 
-Random Search CV
+* Random Search CV
 
-Train–test split
+* Train–test split
 
-Accuracy evaluation and performance metrics
+* Accuracy evaluation and performance metrics
 
 # 📊 Results
 
-Improved classification accuracy after tuning
+* Improved classification accuracy after tuning
 
-Best parameter selection using CV
+* Best parameter selection using CV
+
+* Visual plots showing model performance
 
 # 🛠 Installation
 pip install scikit-learn pandas numpy matplotlib
 
 
-Visual plots showing model performance
