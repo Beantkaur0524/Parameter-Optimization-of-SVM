@@ -31,6 +31,9 @@ This repository presents an enhanced SVM classification model achieved through s
 
 * Visual plots showing model performance
 
+## Fitness Curve
+![Fitness Curve](convergence.png)
+
 # 🛠 Installation
 pip install scikit-learn pandas numpy matplotlib
 
