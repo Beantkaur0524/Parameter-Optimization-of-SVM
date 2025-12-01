@@ -31,10 +31,10 @@ This repository presents an enhanced SVM classification model achieved through s
 
 * Visual plots showing model performance
   
-## Optimization Results
+## Optimized SVM Results
 ![Optimization Results](Parameter_Optimization_SVM.png)
 
-## Fitness Curve
+## Convergence graph of best SVM
 ![Fitness Curve](convergence.png)
 
 # 🛠 Installation
